@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# uwutube (youtube-clone)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Project Link]{https://uwutube.netlify.app/}
 
 ## Available Scripts
 
