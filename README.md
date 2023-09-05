@@ -1,6 +1,6 @@
 # uwutube (youtube-clone)
 
-[Project Link]{https://uwutube.netlify.app/}
+[Project Link](https://uwutube.netlify.app/)
 
 ## Available Scripts
 
